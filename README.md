@@ -3,7 +3,7 @@
 A duo Wordpress project to create a plugin and some widgets for Halloween Party (PHP)
 
 
-![alt text](https://github.com/Crinav/Halloween-Party/blob/master/screens/H.png "main page")  
+!(https://github.com/Crinav/Wordpress-Halloween/blob/master/screens/H.png "main page")  
 ___  
    
   
@@ -19,7 +19,7 @@ Copyright (©) Christophe Navarro <navarro.christophe@gmail.com>
   
 ## Screenshots
   
-![alt text](https://github.com/Crinav/Halloween-Party/blob/master/screens/quest.png)
+!(https://github.com/Crinav/Wordpress-Halloween/blob/master/screens/quest.png)
  
 ___  
 
