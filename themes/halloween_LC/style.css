@@ -1,0 +1,167 @@
+/*
+Theme Name: halloween_LC
+Author: lulu&chris
+Description: for halloween
+Version: 1.0
+Tags: one-column, flexible-header, accessibility-ready*/
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 65px;
+    color: rgb(214, 211, 211);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.h1_page{
+    color: rgb(146, 27, 27);
+}
+.body-img{
+    background-image: url('img/hand2.jpg');
+    min-height: 650px;
+}
+header{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    background-color: rgb(146, 27, 27);
+}
+.site__header__menu{
+    margin-bottom: 0;
+}
+.a_header:link{
+    text-decoration: none;
+}
+.titre_header_h3{
+    font-size: 55px;
+    margin-top: -120px;
+    color: rgb(6, 60, 129);
+}
+.titre_header_h3:hover{
+    color:black;
+}
+#page_page{
+    background-image:url('img/horror.jpg');
+    min-height: 650px;
+}
+#login_page{
+    background-image: url('img/dark_side.jpg');
+    min-height: 650px;
+}
+.login_content{
+    text-align: center;
+    color: rgb(214, 211, 211);
+}
+.site__blog{
+    margin-top: 60px;
+    margin-left: 100px;
+    display: flex;
+}
+.site__content{
+    max-width: 50%;
+}
+.site__sidebar__login{
+    max-width: 30%;
+    margin-left: 35%;
+    border: solid 2px rgb(146, 27, 27);
+    padding: 20px;
+}
+.btn-login{
+    margin-left: 30px;
+}
+.site__sidebar{
+    max-width: 50%;
+    position: absolute;
+    right: 230px;
+    border: solid 2px rgb(146, 27, 27);
+    padding: 20px;
+}
+.site__sidebar__widget{
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 55px;
+    color: rgb(189, 30, 30);
+}
+.site__sidebar__widget:hover{
+    color: rgb(124, 16, 16);
+    
+}
+.site__sidebar__pose_question{
+    text-align: center;
+    margin-left: 25%;
+    max-width: 50%;
+    border: solid 2px rgb(146, 27, 27);
+    padding: 20px;
+    background-color: white;
+    opacity: 80%;
+}
+#question_embarrassante{
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 55px;
+    color: black;
+}
+.single__article{
+    margin-left: 150px;
+}
+
+#questionnaire_style{
+    background-color: rgba(124, 1, 1, 0.548);
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.footer-copyright{
+    background:rgb(146, 27, 27);
+    bottom:0;
+    width:100%;
+    height:50px;
+    position: fixed;
+}
+#theme_div{
+    background-color: aliceblue;
+    opacity: 80%;
+    border: solid 2px rgb(146, 27, 27);
+    padding: 20px;
+}
+#list_theme{
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 35px;
+    color: rgb(126, 3, 3);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#titre_theme{
+    text-align: center;
+    color: rgb(6, 60, 129);
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 45px;
+}
+
+#admin_part{
+    background-color: aliceblue;
+    opacity: 60%;
+    border: solid 2px rgb(146, 27, 27);
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+#admin_content h2{
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 35px;
+    color: rgb(126, 3, 3);
+}
+#admin_content h3{
+    font-family: 'Amatic SC', cursive, bold;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(6, 60, 129);
+}
+#h1_scream{
+    color: rgb(126, 3, 3);
+}
+.img_size{
+    max-width: 500px;
+    padding-bottom: 50px;
+}
