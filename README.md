@@ -23,4 +23,12 @@ Copyright (©) Christophe Navarro <navarro.christophe@gmail.com>
  
 ___  
 
-  
+![alt text](https://github.com/Crinav/Wordpress-Halloween/blob/master/screens/plugin.png)  
+
+___
+
+![alt text](https://github.com/Crinav/Wordpress-Halloween/blob/master/screens/plugin1.png)
+
+___
+
+![alt text](https://github.com/Crinav/Wordpress-Halloween/blob/master/screens/widget.png)
